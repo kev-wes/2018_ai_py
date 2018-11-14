@@ -1,0 +1,59 @@
+issueTypeName
+R_4F05 - TO creation
+R_4F09 - Other customer support
+R_4F08 - Forecast
+S_CO01 - Consignor fails to release TO within cut-off
+O_CO07 - Consignor cancels transport after load creation
+O_CR06 - Carrier is late for delivery with notification
+R_4F10 - Out of scope
+S_RE01 - Expedited transport requested before load creation
+Mail
+O_CO08 - Consignor fails to provide goods
+O_CO03 - Consignor provides lower volume than advised
+R_4F04 - Routing
+S_4F04 - Carrier assignment contains error
+R_4F07 - Track & Trace
+O_CR07 - Carrier is late for delivery without notification
+O_CR01 - Carrier is late for pick up with notification
+R_4F01 - Administration
+S_CO03 - Consignor cancels TO before load creation
+O_CR02 - Carrier is late for pick up without notification
+S_CO02 - Incorrect TO content notified before load creation
+R_4F06 - Bank holiday
+O_CO01 - Consignor delays pickup
+O_CO02 - Consignor provides a higher volume than advised
+O_CO04 - Incorrect TO content detected past load creation
+R_4F03 - Processes
+S_4F03 - TO was not forwarded to carrier in time
+O_CR11 - Carrier requesting changes to schedule
+O_CR12 - Carrier delivery prior schedule
+S_RE02 - TO deviates from implemented setup
+O_CR09 - Carrier rejected Load
+O_RE02 - Expedited transport requested after load creation
+O_RE03 - Recipient delays delivery
+O_CO05 - Missing or incorrect transport documents
+M_4F03 - Subsequential Measure
+O_CR04 - Carrier fails to give required status information
+O_CR05 - Carrier fails to submit transport documents
+S_CO05 - TO with non-implemented timeslots created
+O_CR03 - Carrier fails to pick up advised volume
+S_CO07 - Consignor changes volume of requested TO
+S_4F01 - Route is not implemented
+O_CR08 - Carrier has lost the shipment
+O_CR19 - Carrier provided wrong equipment
+R_4F02 - Training
+O_RE04 - Load damaged
+O_CR18 - Carrier provided wrong information
+S_CO04 - Consignor advises transport outside of inet
+O_CO10 - Missing or incorrent dangerous goods documents
+O_CO06 - Customs issue
+D_4F01 - Data
+O_HU01 - Hub delays delivery
+O_HU02 - Hub delays pickup
+O_HU03 - Hub misrouted shipment or handling unit
+O_HU06 - Hub fails to forward shipment to carrier
+M_4F01 - Cost-reduction approach spot request
+O_HU05 - Hub fails to provide required status information
+M_4F02 - Alignment TO consolidation time/volume
+O_HU04 - Hub has lost the shipment or handling unit
+R_4F19 - Non-serial „Premium Express service“

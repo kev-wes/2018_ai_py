@@ -1,0 +1,76 @@
+[
+    {
+        "projectKey": "AGCO",
+        "issueId": 4145997,
+        "issueKey": "AGCO-949447",
+        "description": "FW: Load assigned / 904992 / AGCO Transportation Management / 唐纳森（中国）贸易有限公司 CN-214028 - AGCO (Changzhou) Agricultural Machinery Co. Ltd CN-213164 / ETA: 14.05.2018 16:30 / Stops: 2\r\n----\r\nDEAR XXXXXX,\r\n\r\n \r\n\r\n如沟通，这单安排下周一5.14提货，并于当天送到爱科，谢谢\r\n\r\n \r\n\r\nBest Regards\r\n\r\n \r\n\r\nHow do you experience our service? Please share your feedback with us by clicking [1]here.\r\n\r\n \r\n\r\nCissy Miao\r\n\r\nSchenker China Ltd.\r\n\r\nNational Distribution China\r\n\r\nPhone +86 21 61708476\r\n\r\nMobile +86 13512193998\r\n\r\n7th Floor, Raffles City (Office Tower), \r\n\r\nNo.268 Xi Zang Zhong Road,Shanghai 200001,P.R.China \r\n\r\nWebsite: [2]www.dbschenker.com.cn\r\n\r\n \r\n\r\nFrom: support.service@inet-logistics.com [mailto:support.service@inet-logistics.com]\r\nSent: 2018年5月10日 12:57\r\nTo: CN-DistList-SHA-Transportation-Agco-CZ; ship2agco-CN@4flow.com\r\nCc: ship2agco-CN@4flow.com\r\nSubject: Load assigned / 904992 / AGCO Transportation Management / 唐纳森（中国）贸易有限公司 CN-214028 - AGCO (Changzhou) Agricultural Machinery Co. Ltd CN-213164 / ETA: 14.05.2018 16:30 / Stops: 2\r\n\r\n \r\n\r\nDear Sir or Madam,\r\n\r\nthe company - has assigned following load to you.\r\n\r\n\r\nLoad\t\r\n\r\nservice provider\t\r\n\r\nService\t\r\n\r\nTrade/depot\t\r\n\r\nBegin of loading\r\n\r\n904992\t\r\n\r\nDB Schenker China\t\r\n\r\nStandard\t\r\n\r\nv-CN (v-CN)\t\r\n\r\n11.05.2018 09:00\r\n\r\n \r\n\r\n\r\nStop\t\r\n\r\nDate\t\r\n\r\nPickup TO\t\r\n\r\nDeliver TO\r\n\r\n唐纳森（中国）贸易有限公司 CN-214028\t\r\n\r\n11.05.2018\t\r\n\r\n10231751\t\r\n\r\nAGCO (Changzhou) Agricultural Machinery Co. Ltd CN-213164\t\r\n\r\n14.05.2018\t\t\r\n\r\n10231751\r\n\r\n\r\n\r\nIn case of any questions please contact your business partner.\r\nEmail generated and sent by:\r\n\r\ninet-logistics GmbH\r\n[3]http://www.inet-logistics.com/\r\n----------------------------------------------------------------------------------------\r\n[1] http://www.emailmeform.com/builder/form/adW75cxPS8\r\n[2] http://www.dbschenker.com.cn/\r\n[3] http://www.inet-logistics.com/",
+        "issueTypeName": "R_4F03 - Processes",
+        "issueTypeId": "10501",
+        "issueTypeCode": "R_4F03",
+        "created": 1526006461000,
+        "updated": 1526007933000,
+        "priorityName": "Medium",
+        "statusName": "Closed",
+        "lastStatusTransistion": 1526007933000,
+        "assigneeUsername": "XXXX",
+        "assignedGroup": "CN",
+        "reporterUsername": "E.User_CN",
+        "transportOrderId": "10231751",
+        "loadId": "",
+        "responsibleParty": "Misc",
+        "responsibleCompanyKeyManual": "",
+        "responsibleCompanyKey": "",
+        "creationType": "",
+        "countComments": 0,
+        "countIncomingMails": 1,
+        "countOutgoingMails": 0,
+        "loggedWork": 0,
+        "slas": [
+            {
+                "slaName": "Time to reaction",
+                "slaStatus": "STOPPED",
+                "slaTimeLeft": 1471,
+                "slaGoal": 3600,
+                "slaMet": true
+            }
+        ],
+        "actionCodes": []
+    },
+    {
+        "projectKey": "AGCO",
+        "issueId": 4145994,
+        "issueKey": "AGCO-949446",
+        "description": "FW: AGCO iTMS - Seefrachtbericht Lane 115 & Lane 278  r  n ----  r  nHerr Superman,  r  n  r  nEs könnte sein, dass der Bericht irgendwie nicht die neuesten Informationen enthält. Unten TO wurde gestern von OIA aktualisiert, aber der angehängte Bericht enthält es nicht. Wenn ich jedoch um 10:32 einen weiteren Bericht (angehängte E-Mail) erstelle, enthält er aktualisierte Containerinformationen.  r  n  r  nZu 10229474  r  n  r  nMit freundlichen Grüßen,  r  n  r  nBatman  r  n  r  n +++ 4flow - Supply Chain Management Beratung, Software und Services +++  r  n _________________  r  nBatman  r  n4flow-Verwaltung.  r  nj.nijman@4flow.com  r  n  r  nwww.4flow.com  r  n  r  nT +86 21 802156-21  r  nF +86 21 802156-99  r  nM +86 13671982650  r  n  r  n  r  n ----- Originalnachricht -----  r  nVon: noreply @ 4flow-vista -analytics.com [mailto: noreply@4flow-vista-analytics.com]  r  nSent: 11. Mai 2018 04: 10  r  nZu: XXXXXXXXXX  r  nSubject: AGCO iTMS - Seefrachtbericht Lane 115 & Lane 278  r  n  r  nLiebe alles,  r  n  r  nBitte füge anbei die Übersicht der Seefrachtsendungen im neuen iTMS-Prozesspilot an.  r  n  r  nKein Gruß,  r  n4flow  r  n + 4flow - Supply-Chain-Management-Beratung, Software und Services +++  r  n _________________  r  nVerkehrsverwaltung  r  n4flow-Management.  r  nship2agco@4flow.com  r  n  r  n4flow-Management GmbH  r  nHallerstrasse 1  r  n10587 Berlin  r  nDeutschland  r  n  r  nwww.4flow.com  r  n  r  nT +49 (0) 30 57700-XXX  r  n  r Amtsgericht Charlotte nburg, HRB 119008  r  nGeschäftsführer / Geschäftsführer: Kai Althoff, Julian Schulcz",
+        "issueTypeName": "R_4F09 - Other customer support",
+        "issueTypeId": "10509",
+        "issueTypeCode": "R_4F09",
+        "created": 1526006041000,
+        "updated": 1526008540000,
+        "priorityName": "Medium",
+        "statusName": "Closed",
+        "lastStatusTransistion": 1526008540000,
+        "assigneeUsername": "XXXXXXXXXXXXXXX",
+        "assignedGroup": "CN",
+        "reporterUsername": "E.User_CN",
+        "transportOrderId": "",
+        "loadId": "",
+        "responsibleParty": "Misc",
+        "responsibleCompanyKeyManual": "",
+        "responsibleCompanyKey": "",
+        "creationType": "",
+        "countComments": 0,
+        "countIncomingMails": 1,
+        "countOutgoingMails": 0,
+        "loggedWork": 0,
+        "slas": [
+            {
+                "slaName": "Time to reaction",
+                "slaStatus": "STOPPED",
+                "slaTimeLeft": 2498,
+                "slaGoal": 3600,
+                "slaMet": true
+            }
+        ],
+        "actionCodes": []
+    }
+]
